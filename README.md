@@ -1,0 +1,1 @@
+A word synonym generator donw using datamuse API.
